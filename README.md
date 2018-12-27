@@ -13,7 +13,7 @@ Before doing so, edit your VMWare or VMFusion network settings and make sure you
 ### Navigate to a working directory and clone the repository
 ```sh
 $ cd Desktop
-$ git clone https://github.com/udacity/RoboND-Control_Rover.git
+$ git clone https://github.com/karimchamaa/RoboND-Control_Rover.git
 $ cd ~/Desktop/RoboND-Control_Rover
 ```
 
